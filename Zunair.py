@@ -1,3 +1,5 @@
+         Accounts Fucked Byy Zunnu 3:)
+
 #!/usr/bin/python2
 #coding=utf-8
 #source code python
@@ -60,7 +62,7 @@ logo = """
 \033[1;93m888    d8P   .d8888b.  8888888888\x1b[1;94m !!
 \033[1;92m888   d8P   d88P  Y88b 888        \x1b[1;94m!!       
 \033[1;93m888  d8P    888    888 888        \x1b[1;94m!!\x1b[1;93m HADII\033[1;32;40m X3\033[1;33;40m ZUNNU     
-    Zunnu X3 Hadi X3 Yunnu X3 Kasmiri
+Zunnu X Hadi X Yunnu X Kasmiri
 \033[1;92m888d88K     888        8888888    \x1b[1;94m!!\x1b[1;91m Author\x1b[1;90m >\033[1;32;40m MR ZUNNU 
 \033[1;93m8888888b    888  88888 888        \x1b[1;94m!!\x1b[1;91m Github\x1b[1;90m >\033[1;32;40m Zunair-Cyber/Zunnu-Mafia   
 \033[1;92m888  Y88b   888    888 888        \x1b[1;94m!!\x1b[1;92m UPDATE\x1b[1;90m >\033[1;31;40m 3\033[1;93m.\x1b[1;91m5
@@ -77,8 +79,8 @@ logo2 = """
 \033[1;92m888   d8P   d88P  Y88b 888        \x1b[1;94m!!       
 \033[1;93m888  d8P    888    888 888        \x1b[1;94m!!\x1b[1;93m HADII\033[1;32;40m X3\033[1;33;40m ZUNNU     
 \033[1;92m888d88K     888        8888888
-    Zunnu X3 Hadi X3 Yunnu x3 Kashmiri                                      \x1b[1;94m!!\x1b[1;91m Author\x1b[1;90m >\033[1;32;40m MR ZUNNU
-\033[1;93m8888888b    888  88888 888        \x1b[1;94m!!\x1b[1;91m Github\x1b[1;90m >\033[1;32;40m The-Kgf   
+Zunnu X Hadi X Yunnu x Kashmiri      \x1b[1;94m!!\x1b[1;91m Author\x1b[1;90m >\033[1;32;40m MR ZUNNU
+\033[1;93m8888888b    888  88888 888        \x1b[1;94m!!\x1b[1;91m Github\x1b[1;90m >\033[1;32;40m Zunnu-Mafia  
 \033[1;92m888  Y88b   888    888 888        \x1b[1;94m!!\x1b[1;92m UPDATE\x1b[1;90m >\033[1;31;40m 3\x1b[1;93m.\x1b[1;91m5
 \033[1;93m888   Y88b  Y88b  d88P 888        \x1b[1;94m!!       
 \033[1;92m888    Y88b  "Y8888888 888        \x1b[1;94m!!        
